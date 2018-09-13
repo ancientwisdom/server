@@ -1,3 +1,4 @@
 module.exports = {
-  db: 'mongodb://localhost:27017/culture'
+  db:
+    'mongodb://poetry:ILovePoetry@116.196.96.247:27017/poetry?authSource=admin'
 };
